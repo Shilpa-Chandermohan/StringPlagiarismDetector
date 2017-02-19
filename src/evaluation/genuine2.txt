@@ -1,0 +1,2 @@
+CONCLUSION
+Graphical passwords are an alternative to textual alphanumeric password since they satisfy both conflicting requirements that are easy to remember and hard to guess. By the solution of the shoulder surfing problem, it becomes more secure and easier password scheme. It is a technique that is still not widely used and the current GUI techniques are still immature.
