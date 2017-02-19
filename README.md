@@ -4,7 +4,7 @@ The alorithms implemented are LCSS, Naive, KMP and Booyer moore.
 
 Flow of the Project:
 	
-1. The source code has many java classes which are:--> MClass.java, KMP.java, LCSS.java, BMSubStr.java, RabinKarp.java and Naive.java:
+1. The source code has many java classes which are:--> KMP.java, LCSS.java, booyermoore.java and naiveSearch.java:
    a) KMP.java : Has the KMP algorithm implementation.
    b) LCSS.java : Has the LCSS algorithm implementation.
    c) BMSubStr.java : Has the Boyer Moore algorithm implementation.
